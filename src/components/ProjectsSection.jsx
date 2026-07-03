@@ -50,7 +50,7 @@ const projects = [
     tags: ["Java", "JAX-RS", "REST API"],
     icon: Server,
     gradient: "from-rose-500 to-pink-600",
-    image: "/projects/Smart Campus.png",
+    image: "/projects/smart Campus.png",
     demoUrl: null,
     githubUrl: "https://github.com/ThimethZ03",
   },
